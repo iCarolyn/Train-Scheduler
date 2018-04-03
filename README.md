@@ -5,7 +5,7 @@ Train scheduler using jQuery and Firebase
 Here is a working live demo: https://icarolyn.github.io/Train-Scheduler
 
 ## Screenshots
-![](screencapture-file-Users-carolynrojsutivat-Desktop-code-Train-Scheduler-index-html-2018-04-03-12_37_59.png)
+![](screencapture.png)
 
 ## Tech/framework used
 
