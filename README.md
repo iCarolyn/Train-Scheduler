@@ -13,6 +13,7 @@ Here is a working live demo: https://icarolyn.github.io/Train-Scheduler
 - [jQuery](https://jquery.com)
 - [Moment.js](https://momentjs.com)
 - [Firebase](https://firebase.google.com)
+- [Bootstrap v4.0](https://getbootstrap.com)
 
 ## License
 
